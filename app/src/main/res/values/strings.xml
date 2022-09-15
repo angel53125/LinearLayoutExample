@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Linear Layout Example</string>
+    <string name = "et_to_hint">To</string>
+</resources>
