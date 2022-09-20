@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Linear Layout Example</string>
-    <string name = "et_to_hint">To</string>
+    <string name="app_name">Linear Layout Example ANN</string>
+    <string name = "et_to_hint">FROM </string>
+    <string name = "et_message_hint">WHO</string>
 </resources>
